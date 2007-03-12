@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1820
+
+File to allow Vim's xml autocompletion to work with NAnt build files (http://nant.sourceforge.net/). Elements and attributes were taken from the 0.85 version schema.
